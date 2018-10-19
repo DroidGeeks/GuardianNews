@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SettingsFragmentTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/primaryTextColor</item>
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:textColorSecondary">@color/primaryLight</item>
+        <item name="android:fontFamily">@font/ubuntu</item>
+        <item name="android:textSize">@dimen/text_size_m</item>
+        <!-- Dialog Styles -->
+        <item name="android:dialogTheme">@style/DialogStyle</item>
+        <item name="android:alertDialogTheme">@style/DialogStyle</item>
+    </style>
+
+    <style name="ArticleSectionText" parent="@style/TextAppearance.AppCompat.Inverse">
+        <item name="android:fontFamily">@font/ubuntu_medium</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">@dimen/text_size_xs</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+</resources>

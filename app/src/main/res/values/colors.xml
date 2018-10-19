@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primaryColor">#2a623d</color>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primaryDark">#1a472a</color>
+    <!-- Menu Title Background -->
+    <color name="menuTitleBackground">#ffffff</color>
+    <!-- color used for cardview background -->
+    <color name="backgroundColorOverlay">#141d26</color>
+    <!-- color used for cardview background when no thumbnail -->
+    <!-- App's background color -->
+    <color name="backgroundColor">#5d5d5d</color>
+    <!-- Primary Text Color -->
+    <color name="primaryTextColor">@android:color/white</color>
+    <!-- Primary Light Text Color -->
+    <color name="primaryLight">#8899a6</color>
+</resources>
